@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remember/Jupyter.md",
+                "file": "Build a Large Language Model/Understanding larger language models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jupyter"
+              "title": "Understanding larger language models"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "700044214863763f",
@@ -182,13 +183,15 @@
   },
   "active": "1e02a129daa1c141",
   "lastOpenFiles": [
-    "NetworkProgramming/Chapter 1 (An Overview of Networked Systems).md",
-    "AiAlgorithms/Chapter 1 (Intuition of artificial intelligence).md",
     "ComputerScienceFromScratch/Interpreters/The Smallest Possible Programming Language.md",
+    "Build a Large Language Model/Understanding larger language models.md",
+    "Build a Large Language Model",
+    "AiAlgorithms/Chapter 1 (Intuition of artificial intelligence).md",
     "Remember/Jupyter.md",
     "Principles and Paradigms/Chapter Two.md",
-    "Remember",
     "Principles and Paradigms/Chapter One.md",
+    "NetworkProgramming/Chapter 1 (An Overview of Networked Systems).md",
+    "Remember",
     "Principles and Paradigms",
     "ComputerScienceFromScratch/Interpreters",
     "ComputerScienceFromScratch",
