@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/Rust Wasm Security Plan/Rust Wasm Security Plan.md",
+                "file": "Business/Rust Wasm Security Plan/High-Security Rust-Wasm Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust Wasm Security Plan"
+              "title": "High-Security Rust-Wasm Architecture"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "700044214863763f",
@@ -182,8 +183,8 @@
   },
   "active": "1e02a129daa1c141",
   "lastOpenFiles": [
-    "Business/Rust Wasm Security Plan/Untitled.md",
     "Business/Rust Wasm Security Plan/Rust Wasm Security Plan.md",
+    "Business/Rust Wasm Security Plan/High-Security Rust-Wasm Architecture.md",
     "Remember/Jupyter.md",
     "Business/Rust Wasm Security Plan",
     "Business/Untitled.md",
